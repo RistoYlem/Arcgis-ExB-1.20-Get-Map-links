@@ -1,0 +1,12 @@
+{
+  "name": "get-map-links",
+  "type": "widget",
+  "label": "Map Link Opener",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "description": "Open external map links by clicking map",
+  "author": "Risto Ülem, Saue Vallavalitsus",
+  "properties": {
+    "hasSettingPage": true
+  }
+}
